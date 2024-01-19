@@ -1,0 +1,46 @@
+﻿Country,year,population,co2_per_capita,ISO3,Year,Region,Human Development Index
+Albania,2021,2854710,1.718,ALB,2021,Southern Europe,0.796
+Andorra,2021,79057,4.592,AND,2021,Southern Europe,0.858
+Armenia,2021,2790971,2.531,ARM,2021,Eastern Europe,0.759
+Austria,2021,8922086,7.399,AUT,2021,Western Europe,0.916
+Azerbaijan,2021,10312992,3.717,AZE,2021,Eastern Europe,0.745
+Belarus,2021,9578172,6.362,BLR,2021,Eastern Europe,0.808
+Belgium,2021,11611416,8.239,BEL,2021,Western Europe,0.937
+Bosnia and Herzegovina,2021,3270948,6.095,BIH,2021,Southern Europe,0.78
+Bulgaria,2021,6885864,6.14,BGR,2021,Eastern Europe,0.795
+Croatia,2021,4060139,4.288,HRV,2021,Southern Europe,0.858
+Cyprus,2021,1244193,5.65,CYP,2021,Southern Europe,0.896
+Denmark,2021,5854246,5.058,DNK,2021,Northern Europe,0.948
+Estonia,2021,1328704,7.842,EST,2021,Northern Europe,0.89
+Finland,2021,5535982,6.855,FIN,2021,Northern Europe,0.94
+France,2021,64531448,4.754,FRA,2021,Western Europe,0.903
+Georgia,2021,3757984,2.942,GEO,2021,Eastern Europe,0.802
+Germany,2021,83408560,8.138,DEU,2021,Western Europe,0.942
+Greece,2021,10445368,5.51,GRC,2021,Southern Europe,0.887
+Hungary,2021,9709784,5.002,HUN,2021,Eastern Europe,0.846
+Iceland,2021,370338,9.478,ISL,2021,Northern Europe,0.959
+Ireland,2021,4986525,7.53,IRL,2021,Northern Europe,0.945
+Italy,2021,59240336,5.693,ITA,2021,Southern Europe,0.895
+Kazakhstan,2021,19196468,13.291,KAZ,2021,Eastern Europe,0.811
+Latvia,2021,1873926,3.864,LVA,2021,Northern Europe,0.863
+Liechtenstein,2021,39058,3.735,LIE,2021,Western Europe,0.935
+Lithuania,2021,2786652,4.963,LTU,2021,Northern Europe,0.875
+Luxembourg,2021,639330,13.185,LUX,2021,Western Europe,0.93
+Malta,2021,526751,3.05,MLT,2021,Southern Europe,0.918
+Monaco,2021,36713,,MCO,2021,Western Europe,
+Montenegro,2021,627856,3.671,MNE,2021,Southern Europe,0.832
+Netherlands,2021,17501696,7.994,NLD,2021,Western Europe,0.941
+North Macedonia,2021,2103329,3.656,MKD,2021,Southern Europe,0.77
+Norway,2021,5403021,7.594,NOR,2021,Northern Europe,0.961
+Poland,2021,38307724,8.643,POL,2021,Eastern Europe,0.876
+Portugal,2021,10290109,3.881,PRT,2021,Southern Europe,0.866
+Romania,2021,19328558,3.994,ROU,2021,Eastern Europe,0.821
+San Marino,2021,33772,,SMR,2021,Southern Europe,0.853
+Serbia,2021,7296771,6.017,SRB,2021,Southern Europe,0.802
+Slovakia,2021,5447621,6.455,SVK,2021,Eastern Europe,0.848
+Slovenia,2021,2119408,6.162,SVN,2021,Southern Europe,0.918
+Spain,2021,47486932,4.849,ESP,2021,Southern Europe,0.905
+Sweden,2021,10467095,3.681,SWE,2021,Northern Europe,0.947
+Switzerland,2021,8691409,4.118,CHE,2021,Western Europe,0.962
+Ukraine,2021,43531424,4.828,UKR,2021,Eastern Europe,0.773
+United Kingdom,2021,67281040,5.164,GBR,2021,Northern Europe,0.929
